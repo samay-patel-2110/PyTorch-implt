@@ -1,0 +1,24 @@
+TorchView
+https://github.com/mert-kurttutan/torchview
+
+Netron - App based Model visualizer
+https://github.com/lutzroeder/netron
+
+Batchnorm not workin 
+model.eval() and model.train() issues
+https://discuss.pytorch.org/t/model-eval-gives-incorrect-loss-for-model-with-batchnorm-layers/7561?u=smth
+https://discuss.pytorch.org/t/performance-highly-degraded-when-eval-is-activated-in-the-test-phase/3323/3
+https://discuss.pytorch.org/t/setting-model-eval-makes-accuracy-much-worse/79074
+https://discuss.pytorch.org/t/worse-performance-when-executing-model-eval-than-model-train/107386
+https://discuss.pytorch.org/t/performance-drops-dramatically-when-switch-to-model-eval/130199
+https://discuss.pytorch.org/t/possible-issue-with-batch-norm-train-eval-modes/31632
+https://discuss.pytorch.org/t/about-normalization-using-pre-trained-vgg16-networks/23560/42?u=ptrblck
+
+Calc of standar dev for data
+https://discuss.pytorch.org/t/about-normalization-using-pre-trained-vgg16-networks/23560/41?u=ptrblck
+
+Dropout
+https://stats.stackexchange.com/questions/240305/where-should-i-place-dropout-layers-in-a-neural-network
+
+Detach and Clone
+https://discuss.pytorch.org/t/difference-between-detach-clone-and-clone-detach/34173/2
